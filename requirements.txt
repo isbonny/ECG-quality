@@ -1,1 +1,7 @@
-
+os
+glob
+numpy
+pandas
+neurokit2 
+matplotlib
+tkinter as 
