@@ -4,4 +4,3 @@ numpy
 pandas
 neurokit2 
 matplotlib
-tkinter
